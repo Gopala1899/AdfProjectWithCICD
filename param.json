@@ -1,1 +1,24 @@
+[
+  {
+    "p_rel_url" : "Gopala1899/AdfProjectWithCICD/refs/heads/main/athletes.csv",
+    "p_folder" : "athletes",
+    "p_file"   : "athletes.parquet"
+  },
+{
+    "p_rel_url" : "Gopala1899/AdfProjectWithCICD/refs/heads/main/coaches.csv",
+    "p_folder" : "coaches",
+    "p_file"   : "coaches.parquet"
+  },
+{
+    "p_rel_url" : "Gopala1899/AdfProjectWithCICD/refs/heads/main/events.csv",
+    "p_folder" : "events",
+    "p_file"   : "events.parquet"
+  },
 
+
+
+
+
+
+  
+]
